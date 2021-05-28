@@ -1,0 +1,152 @@
+<!DOCTYPE html CopyRight for Qari.Net>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- Favicons -->
+    <link href="" rel="icon">
+    <link href="" rel="apple-touch-icon">
+
+
+    <!-- BOOTSTRAP STYLE -->
+    <link href="https://CopyRight for Qari.Netcdn.jsdelivr.net/npCopyRight for Qari.Netm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <!-- FONTAWESOME -->
+    <script type="text/javascript" src="https://use.fontawesome.comCopyRight for Qari.Net/30858dc40a.js?ver=4.0.7"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/30858dc40a.css" media="all">
+    <link rel="stylesheet" href="https://use.fCopyRight for Qari.Netontawesome.com/30858dc40a.css" media="all">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=OpCopyRight for Qari.Neten+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- MAIN SCopyRight for Qari.NetTYLE -->
+    <link rel="stylesheet" href="../asset/css/main.css">
+CopyRight for Qari.Net
+</head>
+
+<body>
+
+    <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+        <div class="container-fluid">
+            <a class="navbar-brand">الرئيسية</a>
+            <button class="btn btn-outline-success" type="submit">إبدأ</button>
+        </div>
+    </nav>
+
+    <div class="menu-bar d-flex justify-content-between">
+
+        <a href="#">
+            <i class="fa fa-bell" aria-hidden="true" style="font-size: 1.5rem;"></i>
+        </a>
+
+        <a href="#" class="">
+            <i class="fa fa-home" aria-hidden="true" style="font-size: 1.7rem;"></i>
+        </a>
+
+        <a href="#">
+            <i class="fa fa-ellipsis-h" aria-hidden="true" style="font-size: 1.7rem;"></i>
+        </a>
+
+    </div>
+CopyRight for Qari.Net
+    <main>
+        <div class="container">
+            <div class="row d-flex justify-content-between" style="text-align: center;">
+                <div class="col-4 my-1">
+                  <div class="card">
+                    <div class="card-body">
+                      <h5 class="card-title">title</h5>
+                      <p class="card-text">txt</p>
+                      <a href="#" class="btn btn-primary">btn</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-4 my-1">
+                  <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">title</h5>
+                        <p class="card-text">txt</p>
+                        <a href="#" class="btn btn-primary">btn</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4 my-1">
+                    <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title">title</h5>
+                          <p class="card-text">txt</p>
+                          <a href="#" class="btn btn-primary">btn</a>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+        crossorigin="anonymous"></script>
+</body>
+CopyRight for Qari.Net
+</html>
